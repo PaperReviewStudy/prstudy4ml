@@ -6,19 +6,19 @@
 
 - Meta Reinforcement Learning as Task Inference
   - Presenter: Changhoon Jeong
-  - Slide: [Meta Reinforcement Learning as Task Inference_Changhoon Jeong.pdf]()
-  - Paper: [https://arxiv.org/abs/1905.06424](https://arxiv.org/abs/1905.06424)
+  - [Slide]()
+  - [Paper](https://arxiv.org/abs/1905.06424)
 - Character Region Awareness for Text Detection
   - Presenter: Bochan Kim 
-  - Slide: [Character Region Awareness for Text Detection_Bochan Kim.pdf]()
-  - Paper: [https://arxiv.org/pdf/1904.01941.pdf](https://arxiv.org/pdf/1904.01941.pdf)
+  - [Slide]()
+  - [Paper](https://arxiv.org/pdf/1904.01941.pdf)
 
 ### 20.04.13
 
 - Causal Confusion in Imitation Learning
   - Presenter: Dongmin Lee 
-  - Slide: [Causal Confusion in Imitation Learning_Dongmin Lee ]()
-  - Paper: [http://papers.nips.cc/paper/9343-causal-confusion-in-imitation-learning](http://papers.nips.cc/paper/9343-causal-confusion-in-imitation-learning)
+  - [Slide]()
+  - [Paper](http://papers.nips.cc/paper/9343-causal-confusion-in-imitation-learning)
 - ?
 
 ### 20.04.20
