@@ -4,12 +4,12 @@
 
 ### [20.04.06]()
 
-- [Meta Reinforcement Learning as Task Inference]() ([Paper](https://arxiv.org/abs/1905.06424))
-- [Character Region Awareness for Text Detection]() ([Paper](https://arxiv.org/pdf/1904.01941.pdf))
+- Meta Reinforcement Learning as Task Inference [[Slide]()] [[Paper](https://arxiv.org/abs/1905.06424)]
+- Character Region Awareness for Text Detection [[Slide]()] [[Paper](https://arxiv.org/pdf/1904.01941.pdf)]
 
 ### [20.04.13]()
 
-- [Causal Confusion in Imitation Learning]() ([Paper](http://papers.nips.cc/paper/9343-causal-confusion-in-imitation-learning))
+- Causal Confusion in Imitation Learning [[Slide]()] [[Paper](http://papers.nips.cc/paper/9343-causal-confusion-in-imitation-learning)]
 - ?
 
 ### [20.04.20]()
