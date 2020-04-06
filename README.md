@@ -6,11 +6,11 @@
 
 - Meta Reinforcement Learning as Task Inference
   - Presenter: Changhoon Jeong
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.04.06/Meta%20Reinforcement%20Learning%20as%20Task%20Inference_Changhoon%20Jeong.pdf)
   - [Paper](https://arxiv.org/abs/1905.06424)
 - Character Region Awareness for Text Detection
   - Presenter: Bochan Kim
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.04.06/Character%20Region%20Awareness%20for%20Text%20Detection_Bochan%20Kim.pdf)
   - [Paper](https://arxiv.org/pdf/1904.01941.pdf)
 
 ### 20.04.13
