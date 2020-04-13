@@ -17,11 +17,11 @@
 
 - Causal Confusion in Imitation Learning
   - Presenter: Dongmin Lee
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.04.13/Efficient%20Off-Policy%20Meta-Reinforcement%20Learning%20via%20Probabilistic%20Context%20Variables_Dongmin%20Lee.pdf)
   - [Paper](http://papers.nips.cc/paper/9343-causal-confusion-in-imitation-learning)
 - Bi-Directional Cascade Network for Perceptual Edge Detection
   - Presenter: Jonghyun Kim
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.04.13/Bi-Directional%20Cascade%20Network%20for%20Perceptual%20Edge%20Detection_Jonghyun%20Kim.pdf)
   - [Paper](https://arxiv.org/abs/1902.10903)
 
 ### 20.04.20
