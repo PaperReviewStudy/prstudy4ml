@@ -15,7 +15,7 @@
 
 ### 20.04.13
 
-- Causal Confusion in Imitation Learning
+- Efficient Off-Policy Meta-Reinforcement Learning via Probabilistic Context Variables
   - Presenter: Dongmin Lee
   - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.04.13/Efficient%20Off-Policy%20Meta-Reinforcement%20Learning%20via%20Probabilistic%20Context%20Variables_Dongmin%20Lee.pdf)
   - [Paper](http://papers.nips.cc/paper/9343-causal-confusion-in-imitation-learning)
