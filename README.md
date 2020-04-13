@@ -26,14 +26,14 @@
 
 ### 20.04.20
 
-- Interactive Image Segmentation via Backpropagating Refinement Scheme
+- Fast Interactive Object Annotation with Curve-GCN
   - Presenter: Taeu Kim
   - [Slide]()
-  - [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Jang_Interactive_Image_Segmentation_via_Backpropagating_Refinement_Scheme_CVPR_2019_paper.pdf)
-- Attention is all you need
+  - [Paper](https://arxiv.org/abs/1903.06874)
+- Do NLP Models Know Numbers? Probing Numeracy in Embeddings
   - Presenter: Soojung Kim
   - [Slide]()
-  - [Paper](https://arxiv.org/abs/1706.03762)
+  - [Paper](https://www.aclweb.org/anthology/D19-1534.pdf)
 
 ### 20.04.27
 
@@ -48,7 +48,7 @@
 
 ### 20.05.04
 
-- TBD
+- Factorization Machine
   - Presenter: Taejin Kim
   - [Slide]()
   - [Paper]()
