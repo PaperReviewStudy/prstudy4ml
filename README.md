@@ -28,11 +28,11 @@
 
 - Fast Interactive Object Annotation with Curve-GCN
   - Presenter: Taeu Kim
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.04.20/Fast%20Interactive%20Object%20Annotation%20with%20Curve-GCN_Taeu%20Kim.pdf)
   - [Paper](https://arxiv.org/abs/1903.06874)
 - Do NLP Models Know Numbers? Probing Numeracy in Embeddings
   - Presenter: Soojung Kim
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.04.20/Do%20NLP%20Models%20Know%20Numbers%3F%20Probing%20Numeracy%20in%20Embeddings_Soojung%20Kim.pdf)
   - [Paper](https://www.aclweb.org/anthology/D19-1534.pdf)
 
 ### 20.04.27
