@@ -37,13 +37,13 @@
 
 ### 20.04.27
 
-- Graph Neural Network
+- Automatic Chemical Design Using a Data-Driven Continuous Representation of Molecules
   - Presenter: Juntae Kim
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.04.27/Automatic%20Chemical%20Design%20Using%20a%20Data-Driven%20Continuous%20Representation%20of%20Molecules_Juntae%20Kim.pdf)
   - [Paper](https://arxiv.org/pdf/1812.08434.pdf)
 - Feature Denoising for Improving Adversarial Robustness
   - Presenter: Sein Jang
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.04.27/Feature%20Denoising%20for%20Improving%20Adversarial%20Robustness_Sein%20Jang.pdf)
   - [Paper](https://arxiv.org/pdf/1812.03411.pdf)
 
 ### 20.05.04
@@ -51,11 +51,11 @@
 - Factorization Machine
   - Presenter: Taejin Kim
   - [Slide]()
-  - [Paper]()
-- Are Noisy Sentences Useless for Distant Supervised Relation Extraction?
-  - Presenter: Juyoung Lee
+  - [Paper](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf)
+- Self-Supervised Convolutional Subspace Clustering Network
+  - Presenter: Yunseon Byun
   - [Slide]()
-  - [Paper](https://arxiv.org/pdf/1911.09788.pdf)
+  - [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Self-Supervised_Convolutional_Subspace_Clustering_Network_CVPR_2019_paper.pdf)
 
 ### 20.05.11
 
@@ -63,10 +63,10 @@
   - Presenter: Soohyun Jo
   - [Slide]()
   - [Paper]()
-- TBD
-  - Presenter: Yunseon Byun
+- Are Noisy Sentences Useless for Distant Supervised Relation Extraction?
+  - Presenter: Juyoung Lee
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://arxiv.org/pdf/1911.09788.pdf)
 
 ---
 
