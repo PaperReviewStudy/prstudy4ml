@@ -59,10 +59,10 @@
 
 ### 20.05.11
 
-- TBD
+- Auto-Encoding Variational Bayes
   - Presenter: Soohyun Jo
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://arxiv.org/abs/1312.6114)
 - Are Noisy Sentences Useless for Distant Supervised Relation Extraction?
   - Presenter: Juyoung Lee
   - [Slide]()
@@ -74,8 +74,8 @@
 
 ### 20.05.18
 
-- TBD
-  - Presenter: TBD
+- Sequential Decision Making Problems
+  - Presenter: Changhoon Jeong
   - [Slide]()
   - [Paper]()
 - TBD
@@ -85,23 +85,23 @@
 
 ### 20.05.25
 
-- TBD
-  - Presenter: TBD
+- Embracing Imperfect Datasets: A Review of Deep Learning Solutions for Medical Image Segmentation
+  - Presenter: Taeu Kim
   - [Slide]()
-  - [Paper]()
-- TBD
-  - Presenter: TBD
+  - [Paper](https://arxiv.org/pdf/1908.10454.pdf)
+- Causal Confusion in Imitation Learning
+  - Presenter: Dongmin Lee
   - [Slide]()
-  - [Paper]()
+  - [Paper](http://papers.nips.cc/paper/9343-causal-confusion-in-imitation-learning)
 
 ### 20.06.01
 
 - TBD
-  - Presenter: TBD
+  - Presenter: Yunseon Byun
   - [Slide]()
   - [Paper]()
 - TBD
-  - Presenter: TBD
+  - Presenter: Sein Jang
   - [Slide]()
   - [Paper]()
 
@@ -119,22 +119,22 @@
 ### 20.06.15
 
 - TBD
-  - Presenter: TBD
+  - Presenter: Juyoung Lee
   - [Slide]()
   - [Paper]()
-- TBD
-  - Presenter: TBD
+- Personalizing Session-based Recommendations with Hierarchical Recurrent Neural Networks
+  - Presenter: Taejin Kim
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://arxiv.org/pdf/1706.04148.pdf)
 
 ### 20.06.22
 
-- TBD
-  - Presenter: TBD
+- Unified Probabilistic Deep Continual Learning through Generative Replay and Open Set Recognition
+  - Presenter: Soohyun Jo
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://arxiv.org/abs/1905.12019)
 - TBD
-  - Presenter: TBD
+  - Presenter: Soojung Kim
   - [Slide]()
   - [Paper]()
 
