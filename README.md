@@ -61,11 +61,11 @@
 
 - Auto-Encoding Variational Bayes
   - Presenter: Soohyun Jo
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.05.11/Auto-Encoding%20Variational%20Bayes_Soohyun%20Jo.pdf)
   - [Paper](https://arxiv.org/abs/1312.6114)
 - Are Noisy Sentences Useless for Distant Supervised Relation Extraction?
   - Presenter: Juyoung Lee
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.05.11/Are%20Noisy%20Sentences%20Useless%20for%20Distant%20Supervised%20Relation%20Extraction%3F_Juyoung%20Lee.pdf)
   - [Paper](https://arxiv.org/pdf/1911.09788.pdf)
 
 ---
