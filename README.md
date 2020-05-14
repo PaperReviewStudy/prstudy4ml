@@ -77,9 +77,9 @@
 - Sequential Decision Making Problems
   - Presenter: Changhoon Jeong
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://bit.ly/3ctkWcY)
 - TBD
-  - Presenter: TBD
+  - Presenter: Bochan Kim
   - [Slide]()
   - [Paper]()
 
@@ -108,11 +108,11 @@
 ### 20.06.08
 
 - TBD
-  - Presenter: TBD
+  - Presenter: Juntae Kim
   - [Slide]()
   - [Paper]()
 - TBD
-  - Presenter: TBD
+  - Presenter: Jonghyun Kim
   - [Slide]()
   - [Paper]()
 
