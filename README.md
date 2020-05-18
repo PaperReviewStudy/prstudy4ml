@@ -78,10 +78,10 @@
   - Presenter: Changhoon Jeong
   - [Slide]()
   - [Paper](https://bit.ly/3ctkWcY)
-- TBD
+- StarGAN v2: Diverse Image Synthesis for Multiple Domains
   - Presenter: Bochan Kim
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://arxiv.org/abs/1912.01865)
 
 ### 20.05.25
 
