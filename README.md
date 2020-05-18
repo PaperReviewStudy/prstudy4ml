@@ -76,11 +76,11 @@
 
 - Sequential Decision Making Problems
   - Presenter: Changhoon Jeong
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.05.18/Sequential%20Decision%20Making%20Problems_Changhoon%20Jeong.pdf)
   - [Paper](https://bit.ly/3ctkWcY)
 - StarGAN v2: Diverse Image Synthesis for Multiple Domains
   - Presenter: Bochan Kim
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.05.18/StarGAN%20v2%2C%20Diverse%20Image%20Synthesis%20for%20Multiple%20Domains_Bochan%20Kim.pdf)
   - [Paper](https://arxiv.org/abs/1912.01865)
 
 ### 20.05.25
