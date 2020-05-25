@@ -85,25 +85,25 @@
 
 ### 20.05.25
 
-- Embracing Imperfect Datasets: A Review of Deep Learning Solutions for Medical Image Segmentation
+- DeepLab Series
   - Presenter: Taeu Kim
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.05.25/DeepLab%20Series_Taeu%20Kim.pdf)
   - [Paper](https://arxiv.org/pdf/1908.10454.pdf)
 - Causal Confusion in Imitation Learning
   - Presenter: Dongmin Lee
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.05.25/Causal%20Confusion%20in%20Imitation%20Learning_Dongmin%20Lee.pdf)
   - [Paper](http://papers.nips.cc/paper/9343-causal-confusion-in-imitation-learning)
 
 ### 20.06.01
 
-- TBD
+- Unsupervised Person Re-identification by Soft Multilabel Learning
   - Presenter: Yunseon Byun
   - [Slide]()
-  - [Paper]()
-- TBD
+  - [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Unsupervised_Person_Re-Identification_by_Soft_Multilabel_Learning_CVPR_2019_paper.pdf)
+- Adversarial Examples Are Not Bugs, They Are Features
   - Presenter: Sein Jang
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://papers.nips.cc/paper/8307-adversarial-examples-are-not-bugs-they-are-features.pdf)
 
 ### 20.06.08
 
@@ -111,10 +111,10 @@
   - Presenter: Juntae Kim
   - [Slide]()
   - [Paper]()
-- TBD
+- Super-Resolving Very Low-Resolution Face Images with Supplementary Attributes
   - Presenter: Jonghyun Kim
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://basurafernando.github.io/papers/XinYuCVPR18.pdf)
 
 ### 20.06.15
 
