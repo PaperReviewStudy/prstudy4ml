@@ -98,11 +98,11 @@
 
 - Unsupervised Person Re-identification by Soft Multilabel Learning
   - Presenter: Yunseon Byun
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.06.01/Unsupervised%20Person%20Re-identification%20by%20Soft%20Multilabel%20Learning_Yunseon%20Byun.pdf)
   - [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Yu_Unsupervised_Person_Re-Identification_by_Soft_Multilabel_Learning_CVPR_2019_paper.pdf)
 - Adversarial Examples Are Not Bugs, They Are Features
   - Presenter: Sein Jang
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.06.01/Adversarial%20Examples%20Are%20Not%20Bugs%2C%20They%20Are%20Features_Sein%20Jang.pdf)
   - [Paper](https://papers.nips.cc/paper/8307-adversarial-examples-are-not-bugs-they-are-features.pdf)
 
 ### 20.06.08
