@@ -64,7 +64,7 @@
   - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.05.11/Auto-Encoding%20Variational%20Bayes_Soohyun%20Jo.pdf)
   - [Paper](https://arxiv.org/abs/1312.6114)
 - Are Noisy Sentences Useless for Distant Supervised Relation Extraction?
-  - Presenter: Juyoung Lee
+  - Presenter: Jooyoung Lee
   - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.05.11/Are%20Noisy%20Sentences%20Useless%20for%20Distant%20Supervised%20Relation%20Extraction%3F_Juyoung%20Lee.pdf)
   - [Paper](https://arxiv.org/pdf/1911.09788.pdf)
 
@@ -118,10 +118,10 @@
 
 ### 20.06.15
 
-- TBD
-  - Presenter: Juyoung Lee
+- Privacy-Preserving Classification of Personal Text Messages with Secure Multi-Party Computation: An Application to Hate-Speech Detection
+  - Presenter: Jooyoung Lee
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://arxiv.org/pdf/1906.02325.pdf)
 - Personalizing Session-based Recommendations with Hierarchical Recurrent Neural Networks
   - Presenter: Taejin Kim
   - [Slide]()
@@ -133,10 +133,10 @@
   - Presenter: Soohyun Jo
   - [Slide]()
   - [Paper](https://arxiv.org/abs/1905.12019)
-- TBD
+- Bidirectional Attention Flow for Machine Comprehension
   - Presenter: Soojung Kim
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://arxiv.org/abs/1611.01603)
 
 ---
 
@@ -144,30 +144,30 @@
 
 ### 20.06.29
 
-- TBD
-  - Presenter: TBD
+- Meta-Learning
+  - Presenter: Changhoon Jeong
   - [Slide]()
-  - [Paper]()
-- TBD
-  - Presenter: TBD
+  - [Paper](https://arxiv.org/abs/2004.05439)
+- MULAN: Multitask Universal Lesion Analysis Network for Joint Lesion Detection, Tagging, and Segmentation
+  - Presenter: Taeu Kim
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://arxiv.org/pdf/1908.04373.pdf)
 
 ### 20.07.06
 
 - TBD
-  - Presenter: TBD
+  - Presenter: Jooyoung Lee
   - [Slide]()
   - [Paper]()
 - TBD
-  - Presenter: TBD
+  - Presenter: Yunseon Byun
   - [Slide]()
   - [Paper]()
 
 ### 20.07.13
 
 - TBD
-  - Presenter: TBD
+  - Presenter: Sein Jang
   - [Slide]()
   - [Paper]()
 - TBD
@@ -178,7 +178,7 @@
 ### 20.07.20
 
 - TBD
-  - Presenter: TBD
+  - Presenter: Dongmin Lee
   - [Slide]()
   - [Paper]()
 - TBD
@@ -189,21 +189,21 @@
 ### 20.07.27
 
 - TBD
-  - Presenter: TBD
+  - Presenter: Juntae Kim
   - [Slide]()
   - [Paper]()
 - TBD
-  - Presenter: TBD
+  - Presenter: Soojung Kim
   - [Slide]()
   - [Paper]()
 
 ### 20.08.03
 
 - TBD
-  - Presenter: TBD
+  - Presenter: Soohyun Jo
   - [Slide]()
   - [Paper]()
 - TBD
-  - Presenter: TBD
+  - Presenter: Taejin Kim
   - [Slide]()
   - [Paper]()
