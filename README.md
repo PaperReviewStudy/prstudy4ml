@@ -107,7 +107,7 @@
 
 ### 20.06.08
 
-- TBD
+- Discriminator Rejection Sampling
   - Presenter: Juntae Kim
   - [Slide]()
   - [Paper]()
