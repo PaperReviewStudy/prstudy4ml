@@ -109,11 +109,11 @@
 
 - Discriminator Rejection Sampling
   - Presenter: Juntae Kim
-  - [Slide]()
-  - [Paper]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.06.08/Discriminator%20Rejection%20Sampling_Juntae%20Kim.pdf)
+  - [Paper](https://arxiv.org/abs/1810.06758)
 - Super-Resolving Very Low-Resolution Face Images with Supplementary Attributes
   - Presenter: Jonghyun Kim
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.06.08/Super-Resolving%20Very%20Low-Resolution%20Face%20Images%20with%20Supplementary%20Attributes_Jonghyun%20Kim.pdf)
   - [Paper](https://basurafernando.github.io/papers/XinYuCVPR18.pdf)
 
 ### 20.06.15
