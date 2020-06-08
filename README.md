@@ -55,7 +55,7 @@
 - Solving the Defect in Application of Compact Abating Probability to Convolutional Neural Network Based Open Set Recognition
   - Presenter: Yunseon Byun
   - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.05.04/Solving%20the%20Defect%20in%20Application%20of%20Compact%20Abating%20Probability%20to%20Convolutional%20Neural%20Network%20Based%20Open%20Set%20Recognition_Yunseon%20Byun.pdf)
-  - [Paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_Self-Supervised_Convolutional_Subspace_Clustering_Network_CVPR_2019_paper.pdf)
+  - [Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8995218)
 
 ### 20.05.11
 
