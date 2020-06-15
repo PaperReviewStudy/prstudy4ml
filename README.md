@@ -120,11 +120,11 @@
 
 - Detection and Analysis of Self-Disclosure in Online News Commentaries
   - Presenter: Jooyoung Lee
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.06.15/Detection%20and%20Analysis%20of%20Self-Disclosure%20in%20Online%20News%20Commentaries_Jooyoung%20Lee.pdf)
   - [Paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313669)
 - Session-based Recommendations with Recurrent Neural Networks
   - Presenter: Taejin Kim
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.06.15/Session-based%20Recommendations%20with%20Recurrent%20Neural%20Networks_Taejin%20Kim.pdf)
   - [Paper](https://arxiv.org/abs/1511.06939)
 
 ### 20.06.22
