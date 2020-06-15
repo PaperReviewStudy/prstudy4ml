@@ -118,21 +118,21 @@
 
 ### 20.06.15
 
-- Privacy-Preserving Classification of Personal Text Messages with Secure Multi-Party Computation: An Application to Hate-Speech Detection
+- Detection and Analysis of Self-Disclosure in Online News Commentaries
   - Presenter: Jooyoung Lee
   - [Slide]()
-  - [Paper](https://arxiv.org/pdf/1906.02325.pdf)
-- Personalizing Session-based Recommendations with Hierarchical Recurrent Neural Networks
+  - [Paper](https://dl.acm.org/doi/pdf/10.1145/3308558.3313669)
+- Session-based Recommendations with Recurrent Neural Networks
   - Presenter: Taejin Kim
   - [Slide]()
-  - [Paper](https://arxiv.org/pdf/1706.04148.pdf)
+  - [Paper](https://arxiv.org/abs/1511.06939)
 
 ### 20.06.22
 
-- Unified Probabilistic Deep Continual Learning through Generative Replay and Open Set Recognition
+- A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks
   - Presenter: Soohyun Jo
   - [Slide]()
-  - [Paper](https://arxiv.org/abs/1905.12019)
+  - [Paper](https://arxiv.org/abs/1610.02136)
 - Bidirectional Attention Flow for Machine Comprehension
   - Presenter: Soojung Kim
   - [Slide]()
