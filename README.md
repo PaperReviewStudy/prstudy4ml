@@ -181,29 +181,29 @@
   - Presenter: Dongmin Lee
   - [Slide]()
   - [Paper]()
-- TBD
+- TBU
   - Presenter: Bochan Kim
   - [Slide]()
   - [Paper]()
 
 ### 20.07.27
 
-- TBD
+- TBU
   - Presenter: Juntae Kim
   - [Slide]()
   - [Paper]()
-- TBD
+- TBU
   - Presenter: Soojung Kim
   - [Slide]()
   - [Paper]()
 
 ### 20.08.03
 
-- TBD
+- TBU
   - Presenter: Soohyun Jo
   - [Slide]()
   - [Paper]()
-- TBD
+- TBU
   - Presenter: Taejin Kim
   - [Slide]()
   - [Paper]()
