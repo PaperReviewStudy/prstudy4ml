@@ -131,11 +131,11 @@
 
 - A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks
   - Presenter: Soohyun Jo
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.06.22/A%20Baseline%20for%20Detecting%20Misclassified%20and%20Out-of-Distribution%20Examples%20in%20Neural%20Networks_Soohyun%20Jo.pdf)
   - [Paper](https://arxiv.org/abs/1610.02136)
 - Bidirectional Attention Flow for Machine Comprehension
   - Presenter: Soojung Kim
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.06.22/Bidirectional%20Attention%20Flow%20for%20Machine%20Comprehension_Soojung%20Kim.pdf)
   - [Paper](https://arxiv.org/abs/1611.01603)
 
 ---
@@ -144,10 +144,10 @@
 
 ### 20.06.29
 
-- Meta-Learning
-  - Presenter: Changhoon Jeong
+- TBU
+  - Presenter: Jonghyun Kim
   - [Slide]()
-  - [Paper](https://arxiv.org/abs/2004.05439)
+  - [Paper]()
 - MULAN: Multitask Universal Lesion Analysis Network for Joint Lesion Detection, Tagging, and Segmentation
   - Presenter: Taeu Kim
   - [Slide]()
@@ -155,34 +155,34 @@
 
 ### 20.07.06
 
-- TBD
+- TBU
   - Presenter: Jooyoung Lee
   - [Slide]()
   - [Paper]()
-- TBD
+- TBU
   - Presenter: Yunseon Byun
   - [Slide]()
   - [Paper]()
 
 ### 20.07.13
 
-- TBD
+- TBU
   - Presenter: Sein Jang
   - [Slide]()
   - [Paper]()
-- TBD
-  - Presenter: TBD
+- Meta-Learning
+  - Presenter: Changhoon Jeong
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://arxiv.org/abs/2004.05439)
 
 ### 20.07.20
 
-- TBD
+- Exploration Strategies in Reinforcement Learning
   - Presenter: Dongmin Lee
   - [Slide]()
   - [Paper]()
 - TBD
-  - Presenter: TBD
+  - Presenter: Bochan Kim
   - [Slide]()
   - [Paper]()
 
