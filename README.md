@@ -146,18 +146,18 @@
 
 - Momentum Contrast for Unsupervised Visual Representation Learning
   - Presenter: Jonghyun Kim
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.06.29/Momentum%20Contrast%20for%20Unsupervised%20Visual%20Representation%20Learning_Jonghyun%20Kim.pdf)
   - [Paper](https://arxiv.org/abs/1911.05722)
 - MULAN: Multitask Universal Lesion Analysis Network for Joint Lesion Detection, Tagging, and Segmentation
   - Presenter: Taeu Kim
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.06.29/MULAN%2C%20Multitask%20Universal%20Lesion%20Analysis%20Network%20for%20Joint%20Lesion%20Detection%2C%20Tagging%2C%20and%20Segmentation_Taeu%20Kim.pdf)
   - [Paper](https://arxiv.org/pdf/1908.04373.pdf)
 
 ### 20.07.06
 
 - Meta-learning: Learning-to-Learn in Neural Networks
   - Presenter: Changhoon Jeong
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.07.06/Meta-learning%2C%20Learning-to-Learn%20in%20Neural%20Networks_Changhoon%20Jeong.pdf)
   - [Paper](https://arxiv.org/abs/2004.05439)
 - Deep Transfer Learning for Multiple Class Novelty Detection
   - Presenter: Yunseon Byun
@@ -170,7 +170,7 @@
   - Presenter: Sein Jang
   - [Slide]()
   - [Paper]()
-- Meta-Learning
+- TBU
   - Presenter: Jooyoung Lee
   - [Slide]()
   - [Paper](https://arxiv.org/abs/2004.05439)
