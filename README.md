@@ -144,10 +144,10 @@
 
 ### 20.06.29
 
-- TBU
+- Momentum Contrast for Unsupervised Visual Representation Learning
   - Presenter: Jonghyun Kim
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://arxiv.org/abs/1911.05722)
 - MULAN: Multitask Universal Lesion Analysis Network for Joint Lesion Detection, Tagging, and Segmentation
   - Presenter: Taeu Kim
   - [Slide]()
@@ -155,14 +155,14 @@
 
 ### 20.07.06
 
-- TBU
-  - Presenter: Jooyoung Lee
+- Meta-learning: Learning-to-Learn in Neural Networks
+  - Presenter: Changhoon Jeong
   - [Slide]()
-  - [Paper]()
-- TBU
+  - [Paper](https://arxiv.org/abs/2004.05439)
+- Deep Transfer Learning for Multiple Class Novelty Detection
   - Presenter: Yunseon Byun
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Perera_Deep_Transfer_Learning_for_Multiple_Class_Novelty_Detection_CVPR_2019_paper.pdf)
 
 ### 20.07.13
 
@@ -171,7 +171,7 @@
   - [Slide]()
   - [Paper]()
 - Meta-Learning
-  - Presenter: Changhoon Jeong
+  - Presenter: Jooyoung Lee
   - [Slide]()
   - [Paper](https://arxiv.org/abs/2004.05439)
 
@@ -180,7 +180,7 @@
 - Exploration Strategies in Reinforcement Learning
   - Presenter: Dongmin Lee
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://towardsdatascience.com/exploration-in-reinforcement-learning-e59ec7eeaa75)
 - TBU
   - Presenter: Bochan Kim
   - [Slide]()
