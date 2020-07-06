@@ -161,7 +161,7 @@
   - [Paper](https://arxiv.org/abs/2004.05439)
 - Deep Transfer Learning for Multiple Class Novelty Detection
   - Presenter: Yunseon Byun
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.07.06/Deep%20Transfer%20Learning%20for%20Multiple%20Class%20Novelty%20Detection_Yunseon%20Byun.pdf)
   - [Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Perera_Deep_Transfer_Learning_for_Multiple_Class_Novelty_Detection_CVPR_2019_paper.pdf)
 
 ### 20.07.13
