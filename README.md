@@ -168,11 +168,11 @@
 
 - Slowing Down the Weight Norm Increase in Momentum-based Optimizers
   - Presenter: Sein Jang
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.07.15/Slowing%20Down%20the%20Weight%20Norm%20Increase%20in%20Momentum-based%20Optimizers_Sein%20Jang.pdf)
   - [Paper](https://arxiv.org/abs/2006.08217)
 - Joint Modelling of Emotion and Abusive Language Detection
   - Presenter: Jooyoung Lee
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.07.15/Joint%20Modelling%20of%20Emotion%20and%20Abusive%20Language%20Detection_Jooyoung%20Lee.pdf)
   - [Paper](https://arxiv.org/pdf/2005.14028.pdf)
 
 ### 20.07.20
