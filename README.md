@@ -166,14 +166,14 @@
 
 ### 20.07.13
 
-- TBU
+- Slowing Down the Weight Norm Increase in Momentum-based Optimizers
   - Presenter: Sein Jang
   - [Slide]()
-  - [Paper]()
-- TBU
+  - [Paper](https://arxiv.org/abs/2006.08217)
+- Joint Modelling of Emotion and Abusive Language Detection
   - Presenter: Jooyoung Lee
   - [Slide]()
-  - [Paper](https://arxiv.org/abs/2004.05439)
+  - [Paper](https://arxiv.org/pdf/2005.14028.pdf)
 
 ### 20.07.20
 
@@ -188,10 +188,10 @@
 
 ### 20.07.27
 
-- TBU
+- Deep Bayesian Active Learning with Image Data
   - Presenter: Juntae Kim
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://arxiv.org/pdf/1703.02910.pdf)
 - TBU
   - Presenter: Soojung Kim
   - [Slide]()
@@ -199,10 +199,10 @@
 
 ### 20.08.03
 
-- TBU
+- Deep Anomaly Detection with Outlier Exposure
   - Presenter: Soohyun Jo
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://arxiv.org/abs/1812.04606)
 - TBU
   - Presenter: Taejin Kim
   - [Slide]()
