@@ -181,10 +181,10 @@
   - Presenter: Dongmin Lee
   - [Slide]()
   - [Paper](https://towardsdatascience.com/exploration-in-reinforcement-learning-e59ec7eeaa75)
-- TBU
+- Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network
   - Presenter: Bochan Kim
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://arxiv.org/abs/1908.05900)
 
 ### 20.07.27
 
@@ -203,7 +203,7 @@
   - Presenter: Soohyun Jo
   - [Slide]()
   - [Paper](https://arxiv.org/abs/1812.04606)
-- TBU
+- Session-based Recommendation with Graph Neural Networks
   - Presenter: Taejin Kim
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://arxiv.org/abs/1811.00855)
