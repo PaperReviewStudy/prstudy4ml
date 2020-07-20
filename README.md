@@ -179,11 +179,11 @@
 
 - Exploration Strategies in Reinforcement Learning
   - Presenter: Dongmin Lee
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.07.20/Exploration%20Strategies%20in%20RL_Dongmin%20Lee.pdf)
   - [Paper](https://towardsdatascience.com/exploration-in-reinforcement-learning-e59ec7eeaa75)
 - Efficient and Accurate Arbitrary-Shaped Text Detection with Pixel Aggregation Network
   - Presenter: Bochan Kim
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.07.20/Efficient%20and%20Accurate%20Arbitrary-Shaped%20Text%20Detection%20with%20Pixel%20Aggregation%20Network_Bochan%20Kim.pdf)
   - [Paper](https://arxiv.org/abs/1908.05900)
 
 ### 20.07.27
