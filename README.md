@@ -190,11 +190,11 @@
 
 - Reinforcement Learning for Molecular Design Guided by Quantum Mechanics
   - Presenter: Juntae Kim
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.07.27/Reinforcement%20Learning%20for%20Molecular%20Design%20Guided%20by%20Quantum%20Mechanics_Juntae%20Kim.pdf)
   - [Paper](https://arxiv.org/abs/2002.07717)
 - Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning
   - Presenter: Soojung Kim
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.07.27/Bootstrap%20Your%20Own%20Latent%2C%20A%20New%20Approach%20to%20Self-Supervised%20Learning_Soojung%20Kim.pdf)
   - [Paper](https://arxiv.org/abs/2006.07733)
 
 ### 20.08.03
