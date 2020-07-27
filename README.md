@@ -188,14 +188,14 @@
 
 ### 20.07.27
 
-- Deep Bayesian Active Learning with Image Data
+- Reinforcement Learning for Molecular Design Guided by Quantum Mechanics
   - Presenter: Juntae Kim
   - [Slide]()
-  - [Paper](https://arxiv.org/pdf/1703.02910.pdf)
-- TBU
+  - [Paper](https://arxiv.org/abs/2002.07717)
+- Bootstrap Your Own Latent: A New Approach to Self-Supervised Learning
   - Presenter: Soojung Kim
   - [Slide]()
-  - [Paper]()
+  - [Paper](https://arxiv.org/abs/2006.07733)
 
 ### 20.08.03
 
