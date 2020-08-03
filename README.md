@@ -201,9 +201,9 @@
 
 - Outlier Exposure with Confidence Control for Out-of-Distribution Detection
   - Presenter: Soohyun Jo
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.08.03/Outlier%20Exposure%20with%20Confidence%20Control%20for%20Out-of-Distribution%20Detection_Soohyun%20Jo.pdf)
   - [Paper](https://arxiv.org/abs/1906.03509)
 - Session-based Recommendation with Graph Neural Networks
   - Presenter: Taejin Kim
-  - [Slide]()
+  - [Slide](https://github.com/PaperReviewStudy/prstudy4ml/blob/master/20.08.03/Session-based%20Recommendation%20with%20Graph%20Neural%20Networks_Taejin%20Kim.pdf)
   - [Paper](https://arxiv.org/abs/1811.00855)
