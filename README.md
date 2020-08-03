@@ -199,10 +199,10 @@
 
 ### 20.08.03
 
-- Deep Anomaly Detection with Outlier Exposure
+- Outlier Exposure with Confidence Control for Out-of-Distribution Detection
   - Presenter: Soohyun Jo
   - [Slide]()
-  - [Paper](https://arxiv.org/abs/1812.04606)
+  - [Paper](https://arxiv.org/abs/1906.03509)
 - Session-based Recommendation with Graph Neural Networks
   - Presenter: Taejin Kim
   - [Slide]()
